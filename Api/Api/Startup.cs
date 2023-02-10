@@ -30,7 +30,7 @@ namespace Api
                 {
                     options.Authority = "http://localhost:8080/auth/realms/master/";
                     options.ClientId = "api-rest";
-                    options.ClientSecret = "84314fc3-be1f-48af-966a-1eabd08ab407";
+                    options.ClientSecret = "695e91bd-dbb0-4194-96ab-67a2a623ff13";
                 });
 
             var authorizationPolicy = new AuthorizationPolicyBuilder()
